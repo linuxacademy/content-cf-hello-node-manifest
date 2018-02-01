@@ -6,4 +6,4 @@ applications:
   memory: 512M
   random-route: true
   stack: cflinuxfs2
-  timeout: 240
+  timeout: 80
