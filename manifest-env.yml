@@ -4,5 +4,5 @@ applications:
   instances: 1
   memory: 512M
   env:
-    FIRST_NAME: Travis
-    LAST_NAME: Thomsen
+    FIRST_NAME: Luke
+    LAST_NAME: Skywalker
