@@ -1,6 +1,6 @@
 applications:
 - name: node-random-tthomsen
-  buildpack: node_buildpack
+  buildpack: nodejs_buildpack
   disk_quota: 512M
   instances: 1
   memory: 512M
