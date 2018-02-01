@@ -1,0 +1,5 @@
+inherit: base-manifest.yml
+applications:
+- name: node-inherit-tthomsen
+  instances: 2
+  command: node app

@@ -4,5 +4,5 @@ applications:
   instances: 1
   memory: 512M
   env:
-    FRIST_NAME: Travis
+    FIRST_NAME: Travis
     LAST_NAME: Thomsen
