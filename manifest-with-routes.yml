@@ -1,4 +1,4 @@
-appications:
+applications:
 - name: node-route-tthomsen
   disk_quota: 512M
   instances: 1
