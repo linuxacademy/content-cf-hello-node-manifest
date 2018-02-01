@@ -1,0 +1,8 @@
+applications:
+- name: node-simple-tthomsen
+  disk_quota: 512M
+  instances: 1
+  memory: 512M
+  env:
+    FRIST_NAME: Travis
+    LAST_NAME: Thomsen
