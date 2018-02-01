@@ -1,5 +1,5 @@
 applications:
-- name: node-simple-tthomsen
+- name: node-env-tthomsen
   disk_quota: 512M
   instances: 1
   memory: 512M
