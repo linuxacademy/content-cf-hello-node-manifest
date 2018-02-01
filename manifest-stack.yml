@@ -1,0 +1,6 @@
+applications:
+- name: node-stack-tthomsen
+  disk_quota: 512M
+  instances: 1
+  memory: 512M
+  stack: cflinuxfs2
