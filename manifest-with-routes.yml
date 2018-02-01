@@ -1,0 +1,8 @@
+appications:
+- name: node-route-tthomsen
+  disk_quota: 512M
+  instances: 1
+  memory: 512M
+  routes:
+  - route: node-tthomsen.cfapps.io
+  - route: node-tthomsen2.cfapps.io

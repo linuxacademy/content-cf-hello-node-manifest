@@ -1,0 +1,7 @@
+appications:
+- name: node-command-tthomsen
+  disk_quota: 512M
+  instances: 1
+  memory: 512M
+  random-route: true
+  command: node app.js

@@ -1,0 +1,9 @@
+appications:
+- name: node-random-tthomsen
+  buildpack: node_buildpack
+  disk_quota: 512M
+  instances: 1
+  memory: 512M
+  random-route: true
+  stack: cflinuxfs2
+  timeout: 240
