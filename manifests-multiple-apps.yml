@@ -1,0 +1,12 @@
+disk_quota: 512M
+instances: 1
+memory: 512M
+
+applications:
+- name: node-app-tthomsen
+  path: ~/content-node-env-demo/
+  env:
+    FIRST_NAME: Han
+    LAST_NAME: Solo
+- name: spring-music-tthomsen
+  path: ~/spring-music/build/libs/spring-music.jar
