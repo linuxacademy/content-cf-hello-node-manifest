@@ -4,4 +4,4 @@ applications:
   instances: 1
   memory: 512M
   docker:
-    image: nginx
+    image: ghost
